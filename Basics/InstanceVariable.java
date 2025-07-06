@@ -1,3 +1,4 @@
+package Basics;
 public class InstanceVariable {
 
     public int age;
